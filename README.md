@@ -14,5 +14,5 @@
 - 🌈 **Pronouns**: they/them
 - ⚙️ **Current Daily Drivers**: `.html`, `.css`, `.js`, `react.js`
 - 💬 Open for **pro bono consulting**, **paid consulting**, and **coffee chats**
-- 📫 Reach me: [linkedin.com/elleabalos](https://linkedin.com/in/elleabalos)
+- 📫 Email me at: [elle.abalos@outlook.com](mailto:elle.abalos@outlook.com)
 - 🐈 Random stuff: Curiosity doesn't kill the cat
