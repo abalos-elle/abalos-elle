@@ -1,16 +1,18 @@
-### Hi there 👋
+### Mabuhay from the Philippines! 🇵🇭👋
 
-<!--
-**abalos-elle/abalos-elle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Management Consultant/Product Manager/Project Manager who's currently dipping their toes in web development.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Currently taking up a web development bootcamp at **Avion School**;
+- 💻 Acting as a consultant across multiple industries;
+- 💼 Working on my web development portfolio;
+
+
+##### BIO
+
+- 🌈 **Pronouns**: they/them
+- ⚙️ **Current Daily Drivers**: `.html`, `.css`, `.js`, `react.js`
+- 📭 Open for **pro bono consulting**, **paid consulting**, and **coffee chats**
+- 📫 Reach me: [linkedin.com/elleabalos](https://linkedin.com/in/elleabalos)
+- 🐈 Random stuff: Curiosity doesn't kill the cat
