@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🌈 **Pronouns**: they/them
-- ⚙️ **Current Daily Drivers**: `.html`, `.css`, `.js`, `react.js`
+- ⚙️ **Current Daily Drivers**: `.html`, `.css`, `.js`, `react.js`, `ruby`, `SQL`
 - 💬 Open for **pro bono consulting**, **paid consulting**, and **coffee chats**
-- 📫 Email me at: [elle.abalos@outlook.com](mailto:elle.abalos@outlook.com)
+- 📫 Email me at: [elle@alab.asia](mailto:elle@alab.asia)
 - 🐈 Random stuff: Curiosity doesn't kill the cat
